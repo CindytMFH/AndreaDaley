@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Tran;Cindy;;;
-FN: Cindy  Tran 
+N:Daley;Andrea;;;
+FN: Andrea  Daley 
 ORG:My Flex Health;
-TITLE:Marketing & QA Assistant
-EMAIL;type=INTERNET;type=WORK;type=pref:cindyt@myflexhealth.com.au
+TITLE:Operations Development Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:AndreaD@myflexhealth.com.au
 TEL;type=WORK;type=VOICE:(08) 9427 7516
 item1.ADR;type=WORK;type=pref:;;27 Brewer Street\nPERTH\, ;;;6000;WA
 item1.X-ABADR:AUS
